@@ -2,7 +2,7 @@
     "name": "emailsender",
     "version": "1.0.0",
     "description": "batch send emails",
-    "main": "index.js",
+    "main": "dist/index.js",
     "scripts": {
         "test": "test"
     },
