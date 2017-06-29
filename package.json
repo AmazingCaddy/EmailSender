@@ -1,0 +1,22 @@
+{
+    "name": "emailsender",
+    "version": "1.0.0",
+    "description": "batch send emails",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "email",
+        "sender"
+    ],
+    "author": "Wenbin Wang",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AmazingCaddy/EmailSender.git"
+    },
+    "dependencies": {
+        "nodemailer": "^4.0.1"
+    }
+}
